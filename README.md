@@ -44,6 +44,7 @@ adaptable and generalizable soft robotic controllers.
   python3 main_CGANWGP_bothXee_pressure.py
   ```
 - Change the path for the actuations and the corresponding end-effector poses
+- Train the cycle GAN network with the default parameters or change it if required
 
 ## To cite the paper
   ```bash
