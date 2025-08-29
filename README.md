@@ -1,4 +1,4 @@
-# Soft-robotic-domain-translation-using-CCGAN
+![ccgan_gif](https://github.com/user-attachments/assets/75754dd6-1abe-43fd-8821-9c6b154890a8)# Soft-robotic-domain-translation-using-CCGAN
 
 ## Abstract
 Deep learning provides a powerful method for modeling the dynamics of soft robots, offering advantages over traditional analytical approaches that require precise knowledge
@@ -22,8 +22,8 @@ further assess its robustness under noise perturbations and periodicity tests. T
 facilitates cross-domain skill transfer, paving the way for more
 adaptable and generalizable soft robotic controllers.
 
-## Model Architecture
-<center><img src="https://github.com/nilay121/Soft-robotic-domain-translation-using-CCGAN/blob/main/archi.png" height="300px" width="700px"></center>
+## Model Architecture and Working
+![](https://github.com/nilay121/Soft-robotic-domain-translation-using-CCGAN/blob/main/ccgan_gif.gif)
 
 
 ## To Run the algorithm
