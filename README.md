@@ -1,4 +1,4 @@
-![ccgan_gif](https://github.com/user-attachments/assets/75754dd6-1abe-43fd-8821-9c6b154890a8)# Soft-robotic-domain-translation-using-CCGAN
+# Domain Translation of a Soft Robotic Arm using Conditional Cycle Generative Adversarial Network
 
 ## Abstract
 Deep learning provides a powerful method for modeling the dynamics of soft robots, offering advantages over traditional analytical approaches that require precise knowledge
